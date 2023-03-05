@@ -18,6 +18,7 @@ yarn-error.log
 /.idea
 /.vscode
 ./history
+/.history
 ./.env
 ./.env.backup
 ./.env.production
