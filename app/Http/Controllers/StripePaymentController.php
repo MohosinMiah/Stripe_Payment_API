@@ -27,6 +27,7 @@ class StripePaymentController extends Controller
     {
         Stripe\Stripe::setApiKey(env('STRIPE_SECRET'));
 
+        // Customer::create() is used to create a Customer object
         $customer = Stripe\Customer::create(array(
 
             "address" => [
@@ -50,7 +51,8 @@ class StripePaymentController extends Controller
             "source" => $request->stripeToken
 
          ));
-  
+
+        // PaymentIntent::create() is used to create a PaymentIntent object
         Stripe\PaymentIntent::create([
             'amount' => 1000 * 10,
             'currency' => 'inr',

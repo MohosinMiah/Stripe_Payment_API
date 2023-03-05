@@ -6,4 +6,10 @@ In this project, I added Stripe API in Laravel Project.
 
 ##  composer require stripe/stripe-php
 
+# Necessary URL
+https://dashboard.stripe.com/test/payments - To Display Payment List
+https://stripe.com/docs/testing            - Testing Card Number
+
+
+
 
