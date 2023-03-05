@@ -10,6 +10,11 @@ In this project, I added Stripe API in Laravel Project.
 https://dashboard.stripe.com/test/payments - To Display Payment List
 https://stripe.com/docs/testing            - Testing Card Number
 
+# Reference
+https://www.itsolutionstuff.com/post/laravel-57-stripe-payment-gateway-integration-exampleexample.html
 
+# Sample
+
+<img src="/sample.jpg" />
 
 
