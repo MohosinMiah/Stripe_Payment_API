@@ -15,6 +15,7 @@ https://www.itsolutionstuff.com/post/laravel-57-stripe-payment-gateway-integrati
 
 # Sample
 
-<img src="/sample.jpg" />
+ ![sample](https://user-images.githubusercontent.com/32362094/222961648-2e57ec39-8f17-46a5-9b1f-53d8c52a693e.jpg)
+
 
 
